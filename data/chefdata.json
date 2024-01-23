@@ -1,0 +1,82 @@
+
+ [
+    {
+      "id": 1,
+      "chef_name": "Chef 1",
+      "years_of_experience": 10,
+      "num_of_recipes": 150,
+      "achievements": ["Award for Best Dish 2015", "Featured in Culinary Magazine"],
+      "contact_information": {
+        "email": "chef1@example.com",
+        "phone": "+123456789",
+        "website": "www.chef1.com"
+      },
+      "image_url": "url_to_chef1_image"
+    },
+    {
+      "id": 2,
+      "chef_name": "Chef 2",
+      "years_of_experience": 8,
+      "num_of_recipes": 120,
+      "achievements": ["Top Chef Competition Finalist", "Published Cookbook Author"],
+      "contact_information": {
+        "email": "chef2@example.com",
+        "phone": "+987654321",
+        "website": "www.chef2.com"
+      },
+      "image_url": "url_to_chef2_image"
+    },
+    {
+      "id": 3,
+      "chef_name": "Chef 3",
+      "years_of_experience": 15,
+      "num_of_recipes": 200,
+      "achievements": ["Michelin Star Chef", "Culinary Innovation Award Winner"],
+      "contact_information": {
+        "email": "chef3@example.com",
+        "phone": "+111222333",
+        "website": "www.chef3.com"
+      },
+      "image_url": "url_to_chef3_image"
+    },
+    {
+      "id": 4,
+      "chef_name": "Chef 4",
+      "years_of_experience": 12,
+      "num_of_recipes": 180,
+      "achievements": ["Best New Chef 2010", "International Cuisine Ambassador"],
+      "contact_information": {
+        "email": "chef4@example.com",
+        "phone": "+444555666",
+        "website": "www.chef4.com"
+      },
+      "image_url": "url_to_chef4_image"
+    },
+    {
+      "id": 5,
+      "chef_name": "Chef 5",
+      "years_of_experience": 6,
+      "num_of_recipes": 100,
+      "achievements": ["Young Chef of the Year", "TV Cooking Show Host"],
+      "contact_information": {
+        "email": "chef5@example.com",
+        "phone": "+777888999",
+        "website": "www.chef5.com"
+      },
+      "image_url": "url_to_chef5_image"
+    },
+    {
+      "id": 6,
+      "chef_name": "Chef 6",
+      "years_of_experience": 9,
+      "num_of_recipes": 130,
+      "achievements": ["Culinary Excellence Award", "Popular Food Blogger"],
+      "contact_information": {
+        "email": "chef6@example.com",
+        "phone": "+222333444",
+        "website": "www.chef6.com"
+      },
+      "image_url": "url_to_chef6_image"
+    }
+  ]
+
