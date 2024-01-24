@@ -2,8 +2,10 @@
  [
     {
       "id": 1,
-      "chef_name": "Chef 1",
+      "chef_name": "Abdullal-Al-Noman",
       "years_of_experience": 10,
+      "recipe_name": "Mantu",
+      "description": "Dumplings filled with seasoned ground meat, served with garlic yogurt sauce",
       "num_of_recipes": 150,
       "achievements": ["Award for Best Dish 2015", "Featured in Culinary Magazine"],
       "contact_information": {
@@ -11,12 +13,14 @@
         "phone": "+123456789",
         "website": "www.chef1.com"
       },
-      "image_url": "url_to_chef1_image"
+      "image_url": "https://www.arabnews.com/sites/default/files/styles/n_670_395/public/2023/11/19/4101421-246573615.jpg?itok=tD05q1E1"
     },
     {
       "id": 2,
-      "chef_name": "Chef 2",
+      "chef_name": "Al-Hakim",
       "years_of_experience": 8,
+      "recipe_name": "Ashak",
+      "description": "Leek-filled dumplings served with a meaty tomato-based sauce and yogurt",
       "num_of_recipes": 120,
       "achievements": ["Top Chef Competition Finalist", "Published Cookbook Author"],
       "contact_information": {
@@ -24,12 +28,14 @@
         "phone": "+987654321",
         "website": "www.chef2.com"
       },
-      "image_url": "url_to_chef2_image"
+      "image_url": "https://assets-global.website-files.com/62329084582644535ee5b145/6234c8148d5f811d4b61beaa_chef-shafi-optimized.jpeg"
     },
     {
       "id": 3,
-      "chef_name": "Chef 3",
+      "chef_name": "Muhammad-Solaimani",
       "years_of_experience": 15,
+      "recipe_name": "Bolani",
+      "description": "Stuffed flatbread with various fillings like potatoes, leeks, or spinach",
       "num_of_recipes": 200,
       "achievements": ["Michelin Star Chef", "Culinary Innovation Award Winner"],
       "contact_information": {
@@ -37,12 +43,14 @@
         "phone": "+111222333",
         "website": "www.chef3.com"
       },
-      "image_url": "url_to_chef3_image"
+      "image_url": "https://media.npr.org/assets/img/2021/10/14/img_8280-64446654f41811cb1a106ff8114f7c4180b854ac-s1100-c50.jpg"
     },
     {
       "id": 4,
-      "chef_name": "Chef 4",
+      "chef_name": "Muhammad-Raiyan",
       "years_of_experience": 12,
+      "recipe_name": "Chapli Kebab",
+      "description": "Spiced ground meat patties served with naan or rice",
       "num_of_recipes": 180,
       "achievements": ["Best New Chef 2010", "International Cuisine Ambassador"],
       "contact_information": {
@@ -50,11 +58,13 @@
         "phone": "+444555666",
         "website": "www.chef4.com"
       },
-      "image_url": "url_to_chef4_image"
+      "image_url": "https://storyteller.iom.int/sites/g/files/tmzbdl361/files/photo_3_16.jpg?fid=9851"
     },
     {
       "id": 5,
-      "chef_name": "Chef 5",
+      "chef_name": "Al-Hasan",
+      "recipe_name": "Kabuli Pulao",
+      "description": "Fragrant rice dish with lamb, carrots, and raisins",
       "years_of_experience": 6,
       "num_of_recipes": 100,
       "achievements": ["Young Chef of the Year", "TV Cooking Show Host"],
@@ -63,12 +73,14 @@
         "phone": "+777888999",
         "website": "www.chef5.com"
       },
-      "image_url": "url_to_chef5_image"
+      "image_url": "https://static.cordonbleu.edu/Files/MediaFile/70794.jpg"
     },
     {
       "id": 6,
-      "chef_name": "Chef 6",
+      "chef_name": "Abu- Musa",
       "years_of_experience": 9,
+      "recipe_name": "Borani Banjan",
+      "description": "Fried eggplants topped with garlic yogurt sauce and dried mint",  
       "num_of_recipes": 130,
       "achievements": ["Culinary Excellence Award", "Popular Food Blogger"],
       "contact_information": {
@@ -76,7 +88,7 @@
         "phone": "+222333444",
         "website": "www.chef6.com"
       },
-      "image_url": "url_to_chef6_image"
+      "image_url": "https://storyteller.iom.int/sites/g/files/tmzbdl361/files/photo_2_12.jpg?fid=9856"
     }
   ]
 

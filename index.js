@@ -22,6 +22,13 @@ app.get('/bannerphoto', (req, res)=>{
     res.send(bannerphoto)
 })
 
+app.get('/chefdata/:id', (req, res) => {
+    const id = req.params.id;
+    console.log(id);
+    const selectedChef = chefdata.find(c => c.id === id);
+    res.send(selectedChef);
+})
+    
 app.listen(port, ()=> {
     console.log(`Assignment-ten is running on port: ${port}`)
 })
